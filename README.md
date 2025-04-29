@@ -71,7 +71,7 @@ I'm a passionate developer based in Yogyakarta, Indonesia, focused on creating i
         A personal portfolio website showcasing my skills, experiences, and projects using modern web technologies and responsive design principles.
       </p>
       <p align="center">
-        <a href="https://github.com/mricopratama/MyWebProfile" target="_blank">
+        <a href="https://github.com/mricopratama/forenexis" target="_blank">
           <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
         <a href="#" target="_blank">

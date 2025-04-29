@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rico Pratama
+# 👋 Hi, I'm Muhammad Rico Pratama
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rico-pratama-91b927246/)
 [![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.rico_pratma)

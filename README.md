@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello, I'm Muhammad Rico Pratama
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-rico-pratama-91b927246" target="_blank">
+  <a href="https://www.linkedin.com/in/mricopratama" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/m.rico_pratma" target="_blank">

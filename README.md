@@ -85,7 +85,7 @@ I'm a passionate developer based in Yogyakarta, Indonesia, focused on creating i
           <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/logo-dimsum.jpg" width="300" height="300" alt="Web Profile Dimsum Date"/>
       </p>
       <p align="center">
-        A restaurant website for Dimsum Date featuring an interactive menu, online ordering system, and responsive design to enhance customer engagement.
+        A website profile for Dimsum Date featuring an interactive menu, online reservations, and responsive design to enhance customer engagement.
       </p>
       <p align="center">
         <a href="https://github.com/padiw123/Web-Profile-Dimsum-Date" target="_blank">

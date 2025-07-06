@@ -91,7 +91,7 @@ I'm a passionate developer based in Yogyakarta, Indonesia, focused on creating i
         <a href="https://github.com/padiw123/Web-Profile-Dimsum-Date" target="_blank">
           <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
-        <a href="#" target="_blank">
+        <a href="https://dimsumdate.com/" target="_blank">
           <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Site"/>
         </a>
       </p>

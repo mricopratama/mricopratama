@@ -20,7 +20,7 @@ I'm a passionate developer based in Yogyakarta, Indonesia, focused on creating i
 <tr>
 <td>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="20" height="20" /> Currently building a website profile for Dimsum Date restaurant with Laravel 12
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="20" height="20" /> Currently building a website profile for my self with Astro
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Learning advanced digital forensics & cross-platform finance app development
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Magnifying Glass" width="20" height="20" /> Specialized in UI/UX design, system architecture, digital forensics & QA
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="20" height="20" /> Based in Yogyakarta, Indonesia

@@ -55,9 +55,14 @@ I'm a passionate developer based in Yogyakarta, Indonesia, focused on creating i
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mricopratama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mricopratama&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mricopratama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/emojis/Trophy.png" alt="Trophy" width="25" height="25" /> Highlighted Projects

@@ -38,7 +38,7 @@ I'm a passionate developer based in Yogyakarta, Indonesia, focused on creating i
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Languages & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mricopratama&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mricopratama&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 </div>
 <br>
 <div align="center">
@@ -56,11 +56,11 @@ I'm a passionate developer based in Yogyakarta, Indonesia, focused on creating i
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mricopratama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mricopratama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?u=mricopratama&theme=dark" alt="GitHub Contribution Snake"/>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/emojis/Trophy.png" alt="Trophy" width="25" height="25" /> Highlighted Projects

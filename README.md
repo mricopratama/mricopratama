@@ -132,7 +132,7 @@ I am a highly motivated final-year Informatics student at **Universitas Ahmad Da
     <td width="50%">
       <h3 align="center">Information Systems MTs Muhammadiyah Kasihan</h3>
       <p align="center">
-          <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/mts_muhammadiyah_kasihan.png" width="300" height="300" alt="Information Systems MTs Muhammadiyah Kasihan"/>
+          <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/logo-sekolah.png" width="300" height="300" alt="Information Systems MTs Muhammadiyah Kasihan"/>
       </p>
       <p align="center">
         An integrated information system built for MTs Muhammadiyah Kasihan. This platform integrates key modules for Guidance and Counseling (GC), Financial Management, the official school profile website, and a digital Library Management System.

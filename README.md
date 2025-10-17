@@ -138,7 +138,7 @@ A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurit
 
 - **<img src="https://cdn.brandfetch.io/ida_xaMYlM/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1742365554659" width="18" alt="Cisco Logo"/> Cisco Cybersecurity Pathway:** Junior Cybersecurity Analyst, Network Defense, Endpoint Security, Cyber Threat Management.
 - **<img src="https://cdn.brandfetch.io/ideJF7JZFa/w/48/h/48/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1748306336218" width="18" alt="Dicoding Logo"/> Dicoding Indonesia:** Back-End Developer Path (Beginner), Web Programming Basics, Cloud & Gen AI on AWS, Kotlin Basics.
-- **<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="18" alt="Google Cloud Logo"/> Google Cloud:** Arcade Program Graduate.
+- **<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="18" alt="Google Cloud Logo"/> Google Cloud:** Arcade Program Graduate, Kubernetes.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> My GitHub Stats
 

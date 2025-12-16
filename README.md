@@ -44,6 +44,7 @@ A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurit
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Filament-FAA02E?style=for-the-badge&logo=filament&logoColor=white" alt="Filament" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
@@ -51,6 +52,7 @@ A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurit
 <p align="center">
   <strong>Backend & Mobile:</strong><br>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
@@ -82,9 +84,9 @@ A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurit
       <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/logo-bsi-uad.png" alt="Logo BSI UAD"/>
     </td>
     <td>
-      Developing and securing web-based information systems for the Yogyakarta City Government. My primary contribution is engineering a <strong>Bug Handling Application</strong> to streamline issue tracking and resolution, enhancing operational efficiency for critical digital services.
+      Contributing to the modernization of university academic platforms. My key responsibilities include updating the <strong>Attendance/Presence Feature</strong> using high-performance <strong>FastAPI</strong> and <strong>React</strong>. Additionally, I am maintaining and updating the <strong>Informatics Practicum Academic System</strong> by leveraging <strong>Laravel</strong> and <strong>Vue.js</strong> to ensure seamless data management for students and lecturers.
       <br><br>
-      <strong>Stack:</strong> PHP (Laravel), MySQL, JavaScript, Git.
+      <strong>Stack:</strong> PHP (Laravel), Vue.js, FastAPI, React, MySQL, JavaScript, Git.
       <br>
       <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge" alt="In Progress"/>
     </td>
@@ -105,7 +107,9 @@ A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurit
       <br><br>
       <strong>Stack:</strong> PHP (Laravel), MySQL, JavaScript, Git.
       <br>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge" alt="In Progress"/>
+      <a href="https://github.com/mricopratama/bug-handlings" target="_blank">
+        <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -117,7 +121,7 @@ A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurit
 <table>
   <tr>
     <td width="200" align="center">
-      <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/mts_muhammadiyah_kasihan.png" alt="Information Systems MTs Muhammadiyah Kasihan"/>
+      <img src="https://instagram.fsrg2-1.fna.fbcdn.net/v/t51.2885-19/358800815_237206775791526_7100086538682649162_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsrg2-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHdEZ66CXoNR1f-4KWh4JCXcS3KgxvFmPICt56xnCzQ3r8hktqeuyENMzLNLGGb4ZU&_nc_ohc=sP7APXsAyhQQ7kNvwH9WoWU&_nc_gid=2TLxmEfemA5SkUXpumjRaw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Afl5KkkVkJbPcTzi3VrTe7LdP7Za1UiRYXW3_oq9QZfeNA&oe=69470C27&_nc_sid=7a9f4b" alt="Information Systems MTs Muhammadiyah Kasihan"/>
     </td>
     <td>
       Architected a comprehensive information system to digitize and streamline key school operations. The system features modules for Guidance & Counseling (GC), Financial Management, a public-facing school website, and a digital Library Management System.

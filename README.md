@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Crafting Secure & Scalable Digital Experiences</h3>
-  <p>Full Stack Developer ◈ Cybersecurity Analyst ◈ UI/UX Enthusiast</p>
+  <p>Full Stack Developer ◈ Cybersecurity Analyst ◈ Tech Enthusiast</p>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurity**. As a final-year Informatics student at **Universitas Ahmad Dahlan**, I thrive at the intersection of development and defense, building robust applications while embedding security from the ground up. My goal is to create digital solutions that are not only functional and user-friendly but also resilient against modern threats.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Sharpening my full-stack and security skills as an **Engineer Intern** at **Dinas Komunikasi Informatika dan Persandian Kota Yogyakarta**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Sharpening my full-stack and security skills as an **Back End Engineer Intern** at **Biro Sistem Informasi UAD**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="20" height="20" /> Cultivating my digital garden with a new personal portfolio built on **Astro** and exploring advanced UI/UX principles.
 - <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/emojis/Handshake.png" alt="Handshake" width="20" height="20" /> Eager to collaborate on innovative projects, especially in FinTech, EdTech, or GovTech.
 - <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/emojis/Bullseye.png" alt="Bullseye" width="20" height="20" /> **2025 Mission:** Land a full-time role as a Security Engineer or UI/UX Designer & ship a personal finance application that helps users achieve financial clarity.
@@ -74,6 +74,25 @@ A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurit
 ## <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/emojis/Trophy.png" alt="Trophy" width="25" height="25" /> Highlighted Projects & Experience
 
 <details>
+<summary><strong>Back-End Engineer Intern | BSI UAD</strong></summary>
+<br>
+<table>
+  <tr>
+    <td width="200" align="center">
+      <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/logo-bsi-uad.png" alt="Logo BSI UAD"/>
+    </td>
+    <td>
+      Developing and securing web-based information systems for the Yogyakarta City Government. My primary contribution is engineering a <strong>Bug Handling Application</strong> to streamline issue tracking and resolution, enhancing operational efficiency for critical digital services.
+      <br><br>
+      <strong>Stack:</strong> PHP (Laravel), MySQL, JavaScript, Git.
+      <br>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge" alt="In Progress"/>
+    </td>
+  </tr>
+</table>
+</details>
+
+<details>
 <summary><strong>Full Stack Engineer Intern | Diskominfo Yogyakarta</strong></summary>
 <br>
 <table>
@@ -98,7 +117,7 @@ A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurit
 <table>
   <tr>
     <td width="200" align="center">
-      <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/logo-sekolah.png" alt="Information Systems MTs Muhammadiyah Kasihan"/>
+      <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/mts_muhammadiyah_kasihan.png" alt="Information Systems MTs Muhammadiyah Kasihan"/>
     </td>
     <td>
       Architected a comprehensive information system to digitize and streamline key school operations. The system features modules for Guidance & Counseling (GC), Financial Management, a public-facing school website, and a digital Library Management System.

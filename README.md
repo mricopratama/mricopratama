@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Crafting Secure & Scalable Digital Experiences</h3>
-  <p>Full Stack Developer ◈ Cybersecurity Analyst ◈ Tech Enthusiast</p>
+  <p>Full Stack Developer ◈ Cybersecurity Analyst ◈ Tech Enthusiast ◈ AI Engineer</p>
 </div>
 
 <div align="center">

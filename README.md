@@ -1,27 +1,34 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello, I'm Muhammad Rico Pratama
-
 <div align="center">
-  <h3>Crafting Secure & Scalable Digital Experiences</h3>
-  <p>Full Stack Developer ◈ Cybersecurity Analyst ◈ Tech Enthusiast ◈ AI Engineer</p>
+
+<img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/dev-working_rounded.gif" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br>
+
+# Hello, I'm Muhammad Rico Pratama
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Analyst;AI+Engineer;Crafting+Secure+%26+Scalable+Experiences" alt="Typing SVG" />
+</a>
+
+<p>Full Stack Developer ◈ Cybersecurity Analyst ◈ Tech Enthusiast ◈ AI Engineer</p>
+
+<a href="https://www.linkedin.com/in/mricopratama" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/m.rico_pratma" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:mricopratama13@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mricopratama" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/m.rico_pratma" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:mricopratama13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<br>
 
 ## <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/emojis/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 
-A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurity**. As a final-year Informatics student at **Universitas Ahmad Dahlan**, I thrive at the intersection of development and defense, building robust applications while embedding security from the ground up. My goal is to create digital solutions that are not only functional and user-friendly but also resilient against modern threats.
+A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurity**. As a graduated Informatics student at **Universitas Ahmad Dahlan**, I thrive at the intersection of development and defense, building robust applications while embedding security from the ground up. My goal is to create digital solutions that are not only functional and user-friendly but also resilient against modern threats.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Sharpening my full-stack and security skills as an **Back End Engineer Intern** at **Biro Sistem Informasi UAD**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Sharpening my full-stack and security skills as a **Back End Engineer Intern** at **Biro Sistem Informasi UAD**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="20" height="20" /> Cultivating my digital garden with a new personal portfolio built on **Astro** and exploring advanced UI/UX principles.
 - <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/emojis/Handshake.png" alt="Handshake" width="20" height="20" /> Eager to collaborate on innovative projects, especially in FinTech, EdTech, or GovTech.
 - <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/emojis/Bullseye.png" alt="Bullseye" width="20" height="20" /> **2025 Mission:** Land a full-time role as a Security Engineer or UI/UX Designer & ship a personal finance application that helps users achieve financial clarity.
@@ -122,7 +129,7 @@ A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurit
 <table>
   <tr>
     <td width="200" align="center">
-      <img src="https://instagram.fsrg2-1.fna.fbcdn.net/v/t51.2885-19/358800815_237206775791526_7100086538682649162_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsrg2-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHdEZ66CXoNR1f-4KWh4JCXcS3KgxvFmPICt56xnCzQ3r8hktqeuyENMzLNLGGb4ZU&_nc_ohc=sP7APXsAyhQQ7kNvwH9WoWU&_nc_gid=2TLxmEfemA5SkUXpumjRaw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Afl5KkkVkJbPcTzi3VrTe7LdP7Za1UiRYXW3_oq9QZfeNA&oe=69470C27&_nc_sid=7a9f4b" alt="Information Systems MTs Muhammadiyah Kasihan"/>
+      <img src="https://raw.githubusercontent.com/mricopratama/mricopratama/main/Assets/logo-mts-kasihan.png" alt="Information Systems MTs Muhammadiyah Kasihan"/>
     </td>
     <td>
       Architected a comprehensive information system to digitize and streamline key school operations. The system features modules for Guidance & Counseling (GC), Financial Management, a public-facing school website, and a digital Library Management System.
@@ -164,21 +171,27 @@ A dynamic **Full Stack Developer** with a deep-seated passion for **Cybersecurit
 - **<img src="https://cdn.brandfetch.io/ideJF7JZFa/w/48/h/48/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1748306336218" width="18" alt="Dicoding Logo"/> Dicoding Indonesia:** Back-End Developer Path (Beginner), Web Programming Basics, Cloud & Gen AI on AWS, Kotlin Basics.
 - **<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="18" alt="Google Cloud Logo"/> Google Cloud:** Arcade Program Graduate, Kubernetes.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> My GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mricopratama&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mricopratama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?u=mricopratama&theme=dark" alt="GitHub Contribution Snake"/>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mricopratama)](https://github.com/stats-organization/github-stats-extended)
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=mricopratama&langs_count=6" height="195" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=mricopratama&theme=dark" alt="GitHub Thropy">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?u=mricopratama&theme=dark" alt="GitHub Contribution Snake"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mricopratama&color=6366F1&style=for-the-badge&label=VIEWS" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Let's connect and build something amazing together!</i>
+<br><br>
+  <img src="https://komarev.com/ghpvc/?username=mricopratama&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>

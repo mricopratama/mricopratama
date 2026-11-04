@@ -5,7 +5,7 @@
 # Hello, I'm Muhammad Rico Pratama
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Analyst;AI+Engineer;Crafting+Secure+%26+Scalable+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Analyst;Data+Analyst;AI+Engineer;Crafting+Secure+%26+Scalable+Experiences" alt="Typing SVG" />
 </a>
 
 <p>Full Stack Developer ◈ Cybersecurity Analyst ◈ Tech Enthusiast ◈ AI Engineer</p>

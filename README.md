@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Analyst;Data+Analyst;AI+Engineer;Crafting+Secure+%26+Scalable+Experiences" alt="Typing SVG" />
 </a>
 
-<p>Full Stack Developer ◈ Cybersecurity Analyst ◈ Tech Enthusiast ◈ AI Engineer</p>
+<p>Full Stack Developer ◈ Cybersecurity Analyst ◈ Data Analyst ◈ AI Engineer</p>
 
 <a href="https://www.linkedin.com/in/mricopratama" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
